@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "NoteApp"
+rootProject.name = "Notes App"
 include(":app")
- 
